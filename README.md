@@ -1,3 +1,2 @@
 # BTVN
 BTVN
-điện toán
